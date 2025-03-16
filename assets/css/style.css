@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/milko_cover.jpg") top right;
+  background: url("../img/milko_global.jpg") top right;
   background-size: cover;
   position: relative;
 }
